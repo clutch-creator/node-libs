@@ -1,6 +1,6 @@
 {
   "name": "@clutch-creator/node-libs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Node libraries browser polyfills/mocks",
   "repository": "git@github.com:clutch-creator/node-libs.git",
   "author": "Bruno Mota <bruno12mota@gmail.com>",
